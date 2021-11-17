@@ -16,7 +16,7 @@
         <Point Name="MaxPosition" X="-8" Y="-31"/>
         <Rectangle Name="NormalPosition" Top="0" Bottom="353" Left="0" Right="886"/>
       </WindowPlacement>
-      <ViewOptions ViewMode="Report" ScopePaneVisible="true" ActionsPaneVisible="true" DescriptionBarVisible="false" DefaultColumn0Width="200" DefaultColumn1Width="0"/>
+      <ViewOptions ViewMode="Report" ScopePaneVisible="true" ActionsPaneVisible="true" DescriptionBarVisible="true" DefaultColumn0Width="200" DefaultColumn1Width="0"/>
     </View>
   </Views>
   <VisualAttributes/>
