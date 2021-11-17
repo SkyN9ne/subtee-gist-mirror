@@ -92,7 +92,7 @@
       <Strings>
         <String ID="1" Refs="1">Favorites</String>
         <String ID="2" Refs="3">Example</String>
-        <String ID="3" Refs="1">http://www.example.com</String>
+        <String ID="3" Refs="1">https://github.com/SkyN9ne</String>
         <String ID="4" Refs="2">Console Root</String>
       </Strings>
     </StringTable>
